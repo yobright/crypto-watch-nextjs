@@ -1,0 +1,5 @@
+API key: f55966142617671abd1d19c3af396ce4c1f16c13
+
+https://api.nomics.com/v1/currencies/ticker?key=f55966142617671abd1d19c3af396ce4c1f16c13&ids=BTC,ETH,XRP&interval=1d,30d,365d
+
+https://api.nomics.com/v1/currencies?key=f55966142617671abd1d19c3af396ce4c1f16c13&ids=BTC&attributes=id,name,logo_url,description,reddit_url
